@@ -6,3 +6,9 @@
 *.rhl
 *.dwl
 *.dwl2
+*.tmp
+*.boms
+*.ccr
+*.ifc
+*.log
+*.cube

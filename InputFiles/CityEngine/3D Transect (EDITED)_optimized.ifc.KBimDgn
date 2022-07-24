@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KBimDGenerator>
+  <Elements>
+    <Elm ID="2661426" Ty="KBimDrawingViewManager" _Parent="$" _Number="0" _Name="3D Transect (EDITED)_optimized" _Version="0" />
+    <Elm ID="2661427" Ty="KBimDrawingPlanViewCategory" _Parent="$" _Number="0" _Name="Plans" _Version="1" _ParentCategory="$" _ViewManager="#2661426" />
+    <Elm ID="2661428" Ty="KBimDrawingElevationViewCategory" _Parent="$" _Number="0" _Name="Elevations" _Version="0" _ParentCategory="$" _ViewManager="#2661426" />
+    <Elm ID="2661429" Ty="KBimDrawingSectionViewCategory" _Parent="$" _Number="0" _Name="Sections" _Version="0" _ParentCategory="$" _ViewManager="#2661426" />
+    <Elm ID="2661430" Ty="KBimDrawing3DViewCategory" _Parent="$" _Number="0" _Name="3Ds" _Version="0" _ParentCategory="$" _ViewManager="#2661426" />
+    <Elm ID="2661431" Ty="KBimPlanView" _Parent="$" _Number="0" _Name="Site" _Version="0" _Position="(0,0,1000)" _Direction="(0,0,-1)" _Up="(0,1,0)" _Width="1000.0" _Height="1000.0" _Depth="1000.0" _ViewCategory="#2661427" _SpatialStructureElement="$" />
+    <Elm ID="2661432" Ty="KBimBuildingStoreyPlanView" _Parent="$" _Number="0" _Name="storey.01" _Version="0" _Position="(0,0,0)" _Direction="(0,0,0)" _Up="(0,0,0)" _Width="0.0" _Height="0.0" _Depth="0.0" _ViewCategory="#2661427" _SpatialStructureElement="#591828" />
+    <Elm ID="2661433" Ty="KBimElevationView" _Parent="$" _Number="0" _Name="Left" _Version="0" _Position="(-1000,0,0)" _Direction="(1,0,0)" _Up="(0,0,1)" _Width="10000.0" _Height="10000.0" _Depth="9000.0" _ViewCategory="#2661428" _Site="#591830" />
+    <Elm ID="2661434" Ty="KBimElevationView" _Parent="$" _Number="0" _Name="Right" _Version="0" _Position="(1000,0,0)" _Direction="(-1,0,0)" _Up="(0,0,1)" _Width="10000.0" _Height="10000.0" _Depth="9000.0" _ViewCategory="#2661428" _Site="#591830" />
+    <Elm ID="2661435" Ty="KBimElevationView" _Parent="$" _Number="0" _Name="Front" _Version="0" _Position="(0,-1000,0)" _Direction="(0,1,0)" _Up="(0,0,1)" _Width="10000.0" _Height="10000.0" _Depth="9000.0" _ViewCategory="#2661428" _Site="#591830" />
+    <Elm ID="2661436" Ty="KBimElevationView" _Parent="$" _Number="0" _Name="Back" _Version="0" _Position="(0,1000,0)" _Direction="(0,-1,0)" _Up="(0,0,1)" _Width="10000.0" _Height="10000.0" _Depth="9000.0" _ViewCategory="#2661428" _Site="#591830" />
+    <Elm ID="2661437" Ty="KBim3DView" _Parent="$" _Number="0" _Name="3D" _Version="0" _Position="(-195.757641566067,-1776.71666209496,376.591341054875)" _Direction="(0,0.707106781186548,-0.707106781186548)" _Up="(0,0.707106781186547,0.707106781186547)" _Width="0.0" _Height="0.0" _Depth="0.0" _ViewCategory="#2661430" />
+    <Elm ID="2661443" Ty="KBimSectionView" _Parent="$" _Number="0" _Name="SectionView_1" _Version="0" _Position="(-144.588696112434,-1445.08000764651,21.7886716444046)" _Direction="(0,1,0)" _Up="(0,0,1)" _Width="505.0026376" _Height="43.6226613" _Depth="106.9527829" _ViewCategory="#2661429" _ClipView="T" _IsFlipped="F" />
+    <Elm ID="2661442" Ty="KBimSectionView" _Parent="$" _Number="0" _Name="Section_1" _Version="0" _Position="(25.6158965570712,-1427.17779759007,21.7886716444046)" _Direction="(1,0,0)" _Up="(0,0,1)" _Width="193.9851398" _Height="43.6226613" _Depth="30.0" _ViewCategory="#2661429" _ClipView="T" _IsFlipped="F" />
+  </Elements>
+</KBimDGenerator>
