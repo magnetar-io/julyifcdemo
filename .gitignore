@@ -12,3 +12,7 @@
 *.ifc
 *.log
 *.cube
+InputFiles/0.glb
+InputFiles/999_Combined_2022_Extended_NoFacade.glb
+InputFiles/acad2gltf.fmw
+InputFiles/ForMEGLTF.dwg
